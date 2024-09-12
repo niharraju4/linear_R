@@ -193,28 +193,6 @@ sns.distplot(residuals, kde=True)
 - Residuals (differences between actual and predicted values) are calculated.
 - A distribution plot of the residuals is created to check for normality and homoscedasticity.
 
-# Comprehensive Linear Regression Analysis Documentation
-
-This document provides a detailed explanation of a Python script that performs linear regression analysis on a dataset of heights and weights. The script demonstrates a complete workflow from data loading to model evaluation and prediction.
-
-## Table of Contents
-1. [Library Imports and Data Loading](#1-library-imports-and-data-loading)
-2. [Data Exploration](#2-data-exploration)
-3. [Data Visualization](#3-data-visualization)
-4. [Feature Selection](#4-feature-selection)
-5. [Data Splitting](#5-data-splitting)
-6. [Feature Standardization](#6-feature-standardization)
-7. [Linear Regression Model](#7-linear-regression-model)
-8. [Model Visualization](#8-model-visualization)
-9. [Predictions](#9-predictions)
-10. [Model Evaluation](#10-model-evaluation)
-11. [Advanced Statistics](#11-advanced-statistics)
-12. [New Data Prediction](#12-new-data-prediction)
-13. [Residual Analysis](#13-residual-analysis)
-14. [Results](#14-results)
-
-
-
 ## 14. Results
 
 This section summarizes the key findings and results of the linear regression analysis:
